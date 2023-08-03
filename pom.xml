@@ -42,7 +42,7 @@
     <configuration>
        <archive>
         <manifest>          
-   <mainClass>com.App</mainClass>
+   <mainClass>com.naresh.App</mainClass>
         </manifest>
         </archive>
         <descriptorRefs>
