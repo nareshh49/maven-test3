@@ -41,7 +41,7 @@
     <artifactId>maven-assembly-plugin</artifactId>
     <configuration>
         <manifest>          
-   <mainClass>com.naresh.App</mainClass>
+   <mainClass>com.App</mainClass>
         </manifest>
         </archive>
         <descriptorRefs>
