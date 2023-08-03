@@ -40,7 +40,7 @@
     <plugin>
     <artifactId>maven-assembly-plugin</artifactId>
     <configuration>
- z        <manifest>          
+        <manifest>          
    <mainClass>com.naresh.App</mainClass>
         </manifest>
         </archive>
