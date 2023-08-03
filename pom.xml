@@ -31,7 +31,7 @@
         <archive>
         <manifest>
             <addClasspath>true</addClasspath>
-            <mainClass>com.App</mainClass>
+            <mainClass>com.naresh.App</mainClass>
         </manifest>
         </archive>
     </configuration>
@@ -40,9 +40,8 @@
     <plugin>
     <artifactId>maven-assembly-plugin</artifactId>
     <configuration>
-        <archive>
-        <manifest>
-            <mainClass>com.naresh.App</mainClass>
+ z        <manifest>          
+   <mainClass>com.naresh.App</mainClass>
         </manifest>
         </archive>
         <descriptorRefs>
